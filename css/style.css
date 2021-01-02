@@ -19,7 +19,7 @@
 /* Content */
 
 body {
-  font-family: "Roboto", Crimson Text , Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: "Verdana"; /*Crimson Text , Georgia, Cambria, "Times New Roman", Times, serif*/
   font-size: 20px;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
